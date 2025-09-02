@@ -71,8 +71,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>My Recent Projects</h2>
-          <p style="font-size: 18px;">Few Of my recents projects are listed below.</p>
+          <h2>My Projects</h2>
+          <p style="font-size: 18px;">Few of my college projects are listed below.</p>
         </div>
 
           <div class="row gy-4">
@@ -168,4 +168,4 @@
 
 </body>
 
-</html>
+</html> 
